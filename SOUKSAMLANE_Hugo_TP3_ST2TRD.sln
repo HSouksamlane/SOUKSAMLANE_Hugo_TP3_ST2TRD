@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOUKSAMLANE_Hugo_TP3_ST2TRD", "SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD.csproj", "{CA56A306-8B4E-4029-8FA8-D3EE6A8F828C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA56A306-8B4E-4029-8FA8-D3EE6A8F828C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA56A306-8B4E-4029-8FA8-D3EE6A8F828C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA56A306-8B4E-4029-8FA8-D3EE6A8F828C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA56A306-8B4E-4029-8FA8-D3EE6A8F828C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

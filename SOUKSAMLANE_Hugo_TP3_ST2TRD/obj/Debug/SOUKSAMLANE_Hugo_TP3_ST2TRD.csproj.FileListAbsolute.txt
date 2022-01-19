@@ -1,0 +1,6 @@
+C:\Users\hugob\RiderProjects\SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD\obj\Debug\SOUKSAMLANE_Hugo_TP3_ST2TRD.csprojAssemblyReference.cache
+C:\Users\hugob\RiderProjects\SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD\obj\Debug\SOUKSAMLANE_Hugo_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\hugob\RiderProjects\SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD\bin\Debug\SOUKSAMLANE_Hugo_TP3_ST2TRD.exe
+C:\Users\hugob\RiderProjects\SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD\bin\Debug\SOUKSAMLANE_Hugo_TP3_ST2TRD.pdb
+C:\Users\hugob\RiderProjects\SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD\obj\Debug\SOUKSAMLANE_Hugo_TP3_ST2TRD.exe
+C:\Users\hugob\RiderProjects\SOUKSAMLANE_Hugo_TP3_ST2TRD\SOUKSAMLANE_Hugo_TP3_ST2TRD\obj\Debug\SOUKSAMLANE_Hugo_TP3_ST2TRD.pdb
